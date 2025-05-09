@@ -41,7 +41,6 @@ The following Python libraries are required to run this project:
 - `matplotlib` for data visualization.
 
  ## Download links
- 
-https://github.com/lakshmi-podamala/US-China-trade-analysis/blob/main/Python.xlsx
-https://github.com/lakshmi-podamala/US-China-trade-analysis/blob/main/Python_filtered.xlsx
-- 
+ - [Download Python.xlsx](https://github.com/lakshmi-podamala/US-China-trade-analysis/raw/main/Python.xlsx)
+- [Download Python_filtered.xlsx](https://github.com/lakshmi-podamala/US-China-trade-analysis/raw/main/Python_filtered.xlsx)
+
