@@ -39,3 +39,9 @@ The following Python libraries are required to run this project:
 - `pandas` for data manipulation.
 - `numpy` for numerical operations.
 - `matplotlib` for data visualization.
+
+ ## Download links
+ 
+https://github.com/lakshmi-podamala/US-China-trade-analysis/blob/main/Python.xlsx
+https://github.com/lakshmi-podamala/US-China-trade-analysis/blob/main/Python_filtered.xlsx
+- 
